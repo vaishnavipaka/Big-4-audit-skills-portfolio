@@ -5,15 +5,15 @@ demonstrating the core skills listed in Big 4 audit/finance job postings: intern
 testing, SQL-based transaction analysis, and financial statement review.
 
 ## Project 1: Internal Controls Testing
-**File:** `Titan_Internal_Controls_Testing_Beginner_Project.xlsx`
+**File:** `Titan_Internal_Controls_Testing_Project 1.xlsx`
 
 Built a Risk & Control Matrix identifying Titan's key audit risk areas (gold/inventory 
 valuation, revenue recognition, related-party transactions, Gold Exchange Programme), with 
 control activities and test procedures for each.
 
 ## Project 2: SQL Anomaly Detection
-**Files:** `queries.sql` + result screenshots (`Screenshot 2026-08-25 164409.png`, `164500.png`, 
-`164530.png`, `164551.png`)
+**Files:** `queries.sql- anomaly-detection` + result screenshots (`Screenshot 2026-08-25 164409.png`, 
+`164500.png`, `164530.png`, `164551.png`)
 
 Wrote SQL queries against a 507-transaction payments dataset to detect duplicate payments, 
 round-number amounts, weekend postings, and vendor concentration risk. Screenshots show each 
